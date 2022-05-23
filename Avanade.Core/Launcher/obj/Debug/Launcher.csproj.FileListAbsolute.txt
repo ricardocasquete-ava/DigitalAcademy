@@ -1,0 +1,14 @@
+C:\_Source\Repos\DigitalAcademy\Avanade.Core\Launcher\obj\Debug\Launcher.csproj.AssemblyReference.cache
+C:\_Source\Repos\DigitalAcademy\Avanade.Core\Launcher\obj\Debug\Launcher.csproj.SuggestedBindingRedirects.cache
+C:\_Source\Repos\DigitalAcademy\Avanade.Core\Launcher\obj\Debug\Launcher.Form1.resources
+C:\_Source\Repos\DigitalAcademy\Avanade.Core\Launcher\obj\Debug\Launcher.Properties.Resources.resources
+C:\_Source\Repos\DigitalAcademy\Avanade.Core\Launcher\obj\Debug\Launcher.csproj.GenerateResource.cache
+C:\_Source\Repos\DigitalAcademy\Avanade.Core\Launcher\obj\Debug\Launcher.csproj.CoreCompileInputs.cache
+C:\_Source\Repos\DigitalAcademy\Avanade.Core\Launcher\bin\Debug\Launcher.exe.config
+C:\_Source\Repos\DigitalAcademy\Avanade.Core\Launcher\bin\Debug\Launcher.exe
+C:\_Source\Repos\DigitalAcademy\Avanade.Core\Launcher\bin\Debug\Launcher.pdb
+C:\_Source\Repos\DigitalAcademy\Avanade.Core\Launcher\bin\Debug\CodeExamples.dll
+C:\_Source\Repos\DigitalAcademy\Avanade.Core\Launcher\bin\Debug\CodeExamples.pdb
+C:\_Source\Repos\DigitalAcademy\Avanade.Core\Launcher\obj\Debug\Launcher.csproj.CopyComplete
+C:\_Source\Repos\DigitalAcademy\Avanade.Core\Launcher\obj\Debug\Launcher.exe
+C:\_Source\Repos\DigitalAcademy\Avanade.Core\Launcher\obj\Debug\Launcher.pdb
