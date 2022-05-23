@@ -1,4 +1,4 @@
-﻿using Avanade.Core.Library;
+﻿using CodeExamples;
 using System;
 
 namespace LauncherCMDLine
