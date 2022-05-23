@@ -13,9 +13,7 @@ namespace CodeExamples
         /// <exception cref="NotImplementedException"></exception>
         public int Sum(int a, int b)
         {
-            Console.Write("hey");
-            return 0;
-            //throw new NotImplementedException();
+            return a + b;
         }
 
         /// <summary>
@@ -25,7 +23,10 @@ namespace CodeExamples
         /// <param name="b"></param>
         /// <returns></returns>
         /// <exception cref="NotImplementedException"></exception>
-        public int Substracts(int a, int b) { throw new NotImplementedException(); }
+        public int Substracts(int a, int b)
+        {
+            return b - a;
+        }
 
         /// <summary>
         /// Multiply two numbers
@@ -34,7 +35,7 @@ namespace CodeExamples
         /// <param name="b"></param>
         /// <returns></returns>
         /// <exception cref="NotImplementedException"></exception>
-        public int Multiply(int a, int b) { throw new NotImplementedException(); }
+        public int Multiply(int a, int b) { return  a*b; }
 
         /// <summary>
         /// Divide a Number from a given number. First Number has to be bigger than the second number
@@ -44,7 +45,10 @@ namespace CodeExamples
         /// <param name="b"></param>
         /// <returns></returns>
         /// <exception cref="NotImplementedException"></exception>
-        public int Divide(int a, int b) { throw new NotImplementedException(); }
+        public int Divide(int a, int b) 
+        {
+            return a / b;
+        }
 
         /// <summary>
         /// Perform Operations in the Chain of 2 elements
@@ -55,7 +59,24 @@ namespace CodeExamples
         /// <param name="operation"></param>
         /// <returns></returns>
         /// <exception cref="NotImplementedException"></exception>
-        public int Chain2(string operation) { throw new NotImplementedException(); }
+        public int Chain2(string operation) 
+        {
+            var opSum = '+';
+            var opSubs = "-";
+            var opMult = "*";
+            var opMDiv = ".";
+
+            if (operation.Contains(opSum.ToString()))
+            {
+                var divideItems = operation.Split(opSum);
+                var op1 = Int32.Parse(divideItems[0]);
+                var op2 = Int32.Parse(divideItems[1]);
+
+                return this.Sum(op1, op2);
+            }
+
+            return 0;
+        }
 
         /// <summary>
         /// Perform Operations in the Chain of many elements
