@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Avanade.Core.Library.Paterns
+namespace CodeExamples.Paterns
 {
     internal class Factory
     {

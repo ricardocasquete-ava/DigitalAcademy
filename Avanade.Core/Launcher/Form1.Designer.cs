@@ -38,7 +38,7 @@
             this.btnLaunch.Name = "btnLaunch";
             this.btnLaunch.Size = new System.Drawing.Size(142, 46);
             this.btnLaunch.TabIndex = 0;
-            this.btnLaunch.Text = "Launch";
+            this.btnLaunch.Text = "Sum";
             this.btnLaunch.UseVisualStyleBackColor = true;
             this.btnLaunch.Click += new System.EventHandler(this.btnLaunch_Click);
             // 

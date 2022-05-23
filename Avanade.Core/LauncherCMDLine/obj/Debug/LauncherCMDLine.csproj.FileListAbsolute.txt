@@ -1,0 +1,11 @@
+C:\Users\ricardo.casquete\Source\Repos\DigitalAcademy2\Avanade.Core\LauncherCMDLine\bin\Debug\LauncherCMDLine.exe.config
+C:\Users\ricardo.casquete\Source\Repos\DigitalAcademy2\Avanade.Core\LauncherCMDLine\bin\Debug\LauncherCMDLine.exe
+C:\Users\ricardo.casquete\Source\Repos\DigitalAcademy2\Avanade.Core\LauncherCMDLine\bin\Debug\LauncherCMDLine.pdb
+C:\Users\ricardo.casquete\Source\Repos\DigitalAcademy2\Avanade.Core\LauncherCMDLine\bin\Debug\CodeExamples.dll
+C:\Users\ricardo.casquete\Source\Repos\DigitalAcademy2\Avanade.Core\LauncherCMDLine\bin\Debug\CodeExamples.pdb
+C:\Users\ricardo.casquete\Source\Repos\DigitalAcademy2\Avanade.Core\LauncherCMDLine\obj\Debug\LauncherCMDLine.csproj.AssemblyReference.cache
+C:\Users\ricardo.casquete\Source\Repos\DigitalAcademy2\Avanade.Core\LauncherCMDLine\obj\Debug\LauncherCMDLine.csproj.SuggestedBindingRedirects.cache
+C:\Users\ricardo.casquete\Source\Repos\DigitalAcademy2\Avanade.Core\LauncherCMDLine\obj\Debug\LauncherCMDLine.csproj.CoreCompileInputs.cache
+C:\Users\ricardo.casquete\Source\Repos\DigitalAcademy2\Avanade.Core\LauncherCMDLine\obj\Debug\LauncherCMDLine.csproj.CopyComplete
+C:\Users\ricardo.casquete\Source\Repos\DigitalAcademy2\Avanade.Core\LauncherCMDLine\obj\Debug\LauncherCMDLine.exe
+C:\Users\ricardo.casquete\Source\Repos\DigitalAcademy2\Avanade.Core\LauncherCMDLine\obj\Debug\LauncherCMDLine.pdb

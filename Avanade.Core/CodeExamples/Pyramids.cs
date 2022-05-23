@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Avanade.Core.Library
+namespace CodeExamples
 {
     public class Pyramids
     {
@@ -16,7 +16,7 @@ namespace Avanade.Core.Library
         /// <param name="height"></param>
         public void WriteHalfPiramid(int height)
         {
-            throw new NotImplementedException();
+            Console.WriteLine("*");
         }
 
         /// <summary>
@@ -29,7 +29,6 @@ namespace Avanade.Core.Library
         /// <param name="height"></param>
         public void WritePiramid(int height)
         {
-            throw new NotImplementedException();
         }
 
         /// <summary>
@@ -42,7 +41,6 @@ namespace Avanade.Core.Library
         /// <param name="height"></param>
         public void WriteNumericPiramid(int height)
         {
-            throw new NotImplementedException();
         }
     }
 }

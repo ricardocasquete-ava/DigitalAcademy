@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\_Source\\Repos\\DigitalAcademy\\Avanade.Core\\CodeExamples\\CodeExamples.csproj": {}
+    "C:\\Users\\ricardo.casquete\\Source\\Repos\\DigitalAcademy2\\Avanade.Core\\CodeExamples\\CodeExamples.csproj": {}
   },
   "projects": {
-    "C:\\_Source\\Repos\\DigitalAcademy\\Avanade.Core\\CodeExamples\\CodeExamples.csproj": {
+    "C:\\Users\\ricardo.casquete\\Source\\Repos\\DigitalAcademy2\\Avanade.Core\\CodeExamples\\CodeExamples.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\_Source\\Repos\\DigitalAcademy\\Avanade.Core\\CodeExamples\\CodeExamples.csproj",
+        "projectUniqueName": "C:\\Users\\ricardo.casquete\\Source\\Repos\\DigitalAcademy2\\Avanade.Core\\CodeExamples\\CodeExamples.csproj",
         "projectName": "CodeExamples",
-        "projectPath": "C:\\_Source\\Repos\\DigitalAcademy\\Avanade.Core\\CodeExamples\\CodeExamples.csproj",
+        "projectPath": "C:\\Users\\ricardo.casquete\\Source\\Repos\\DigitalAcademy2\\Avanade.Core\\CodeExamples\\CodeExamples.csproj",
         "packagesPath": "C:\\Users\\ricardo.casquete\\.nuget\\packages\\",
-        "outputPath": "C:\\_Source\\Repos\\DigitalAcademy\\Avanade.Core\\CodeExamples\\obj\\",
+        "outputPath": "C:\\Users\\ricardo.casquete\\Source\\Repos\\DigitalAcademy2\\Avanade.Core\\CodeExamples\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ricardo.casquete\\AppData\\Roaming\\NuGet\\NuGet.Config",

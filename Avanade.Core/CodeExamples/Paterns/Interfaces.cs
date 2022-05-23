@@ -2,9 +2,14 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Avanade.Core.Library.Paterns
+namespace CodeExamples.Paterns
 {
-    internal class Interfaces
+    public interface IBankAccount
     {
+        void CreateAccount(string accountName, int balance);
+        int GetBalance(string accountName);
+        void UpdateBalance(string accountName, int balance);
     }
+
+
 }

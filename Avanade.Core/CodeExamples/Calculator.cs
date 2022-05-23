@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Avanade.Core.Library
+namespace CodeExamples
 {
     public class Calculator
     {
@@ -11,7 +11,12 @@ namespace Avanade.Core.Library
         /// <param name="b"></param>
         /// <returns></returns>
         /// <exception cref="NotImplementedException"></exception>
-        public int Sum(int a, int b) { throw new NotImplementedException(); }
+        public int Sum(int a, int b)
+        {
+            Console.Write("hey");
+            return 0;
+            //throw new NotImplementedException();
+        }
 
         /// <summary>
         /// Substract a Number from a given number. Fist Number has to be bigger than the second number.
