@@ -7,7 +7,7 @@ namespace LauncherCMDLine
     {
         static void Main(string[] args)
         {
-            var pyramidHeigh = new Random().Next(2, 10);
+            var pyramidHeigh = new Random().Next(4, 4);
             var pyramid = new Pyramids();
 
             Console.WriteLine("Half Pymraid");

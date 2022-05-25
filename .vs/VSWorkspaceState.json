@@ -1,7 +1,13 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Avanade.Core",
+    "\\Avanade.Core\\CodeExamples",
+    "\\Avanade.Core\\CodeExamples\\Paterns",
+    "\\Avanade.Core\\Launcher",
+    "\\Avanade.Core\\LauncherCMDLine",
+    "\\Avanade.Core\\Tests"
   ],
-  "SelectedNode": "\\C:\\Users\\ricardo.casquete\\Source\\Repos\\DigitalAcademy2",
+  "SelectedNode": "\\Avanade.Core\\Tests\\Search_Tests.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -1,0 +1,34 @@
+﻿Ref:
+  - $Gender:
+    - { GenderId : 1, Code :  M, Text: Male }
+    - { GenderId : 2, Code :  F, Text: Female }
+
+  - $ProductCategory:
+    - { ProductCategoryId : 1, Code :  Convenience, Text: Convenience goods }
+    - { ProductCategoryId : 2, Code :  Shopping , Text: Shopping  goods }
+    - { ProductCategoryId : 3, Code :  Specialty , Text: Unsought  goods }
+    - { ProductCategoryId : 4, Code :  Unsought, Text: Unsought goods }
+
+  - $OrderStatus:
+    - { OrderStatusId : 1, Code :  New, Text: New Order }
+    - { OrderStatusId : 2, Code :  InProgress , Text: In Progress }
+    - { OrderStatusId : 3, Code :  Paid , Text: Fully Paid }
+    - { OrderStatusId : 4, Code :  InFulfilment, Text: Processing Fulfilment }
+    - { OrderStatusId : 5, Code :  Delivered, Text: Fully Delivered }
+
+Sales:
+  - $Product:
+    - { ProductId : 1, ProductCategoryId: 1, Name: Soap , Description: Clean as it gets, Price : 3 }
+    - { ProductId : 2, ProductCategoryId: 1, Name: Toothpaste , Description: For those pearly whites, Price : 8 }
+    - { ProductId : 3, ProductCategoryId: 1, Name: Full Cream Milk, Description: Full of Goodness, Price : 2 }
+    - { ProductId : 4, ProductCategoryId: 1, Name: Skim Milk, Description: Light and easy, Price : 2 }
+
+    - { ProductId : 10, ProductCategory: Shopping, Name: TShirt , Description: TShirt, Price : 25 }
+    - { ProductId : 11, ProductCategory: Shopping, Name: Jeans, Description: Awesome Jeans, Price : 30 }
+
+    - { ProductId : 20, ProductCategory: Specialty, Name: iPhone, Description: iPhone 13, Price : 1800 }
+    - { ProductId : 21, ProductCategory: Specialty, Name: iPhone Max, Description: iPhone 13 Max, Price : 1800 }
+
+    - { ProductId : 30, ProductCategory: Unsought, Name: Fire Ext, Description: 10L Fire Extinguishers, Price : 100 }
+    - { ProductId : 31, ProductCategory: Unsought, Name: Car Battery, Description: 12V Car Battery, Price : 500 }
+

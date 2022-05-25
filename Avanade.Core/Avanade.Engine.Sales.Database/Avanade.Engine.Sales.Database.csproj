@@ -1,0 +1,45 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Beef.Database.Core" Version="4.2.3" />
+    <PackageReference Include="Beef.CodeGen.Core" Version="4.2.14" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Schema\**\*" />
+    <EmbeddedResource Include="Migrations\**\*" />
+    <EmbeddedResource Include="Data\**\*" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Migrations\0. Schemas\000.Ref.Create.sql" />
+    <None Remove="Migrations\0. Schemas\001.Sales.Create.sql" />
+    <None Remove="Migrations\1. Ref\001.Ref.Gender.Create.sql" />
+    <None Remove="Migrations\1. Ref\002.Ref.ProductCategory.Create.sql" />
+    <None Remove="Migrations\1. Ref\003. Ref.OrderStatus.Create.sql" />
+    <None Remove="Migrations\2. Sales\001.Sales.Person.sql" />
+    <None Remove="Migrations\2. Sales\002.Sales.Product.sql" />
+    <None Remove="Migrations\2. Sales\003.Sales.ProductMetadata.sql" />
+    <None Remove="Migrations\2. Sales\004.Sales.ProductReview.sql" />
+    <None Remove="Migrations\2. Sales\010.Sales.Order.sql" />
+    <None Remove="Migrations\2. Sales\010_01.Sales.Order.AddCol.OrderStatus.sql" />
+    <None Remove="Migrations\2. Sales\011.Sales.OrderLine.sql" />
+    <None Remove="Migrations\2. Sales\012.Sales.OrderTransactions.sql" />
+    <None Remove="Migrations\20220505-000000-create-ref-schema.sql" />
+    <None Remove="Migrations\20220505-000001-create-Sales-schema.sql" />
+    <None Remove="Migrations\20220505-000002-create-ref-gender.sql" />
+    <None Remove="Migrations\20220505-000003-create-Sales-Person.sql" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Schema\" />
+    <Folder Include="Data\" />
+  </ItemGroup>
+
+</Project>

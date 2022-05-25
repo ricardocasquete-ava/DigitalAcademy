@@ -1,0 +1,65 @@
+﻿schema: Sales
+eventOutbox: true
+entityScope: Autonomous
+tables:
+  # Reference data stored procedures
+- { name: Gender, getAll: true, schema: Ref }
+- { name: ProductCategory, getAll: true, schema: Ref }
+- { name: OrderStatus, getAll: true, schema: Ref }
+
+  # Master data stored procedures.
+- { name: Person, get: true, create: true, update: true, delete: true,
+    storedProcedures: [
+      { name: GetByArgs, paging: true,
+        parameters: [
+          { name: FirstName, nullable: true, operator: LIKE },
+          { name: LastName, nullable: true, operator: LIKE },
+          { name: GenderCode, nullable: true, collection: true }
+        ],
+        orderby: [
+          { name: LastName },
+          { name: FirstName }
+        ]
+      }
+    ]
+  }
+
+- { name: Product, get : true, getAll: true, create : true, update : true, delete: true }
+- { name: ProductMetadata, get : true, getAll: true, create : true, update : true, delete: true,
+    storedProcedures: [
+      { name: GetByProductId, paging: false,
+        parameters: [
+          { name: ProductId, nullable: true, operator: EQ }
+        ]
+      }
+    ]
+  }
+- { name: ProductReview, get : true, getAll: true, create : true, update : true, delete: true,
+    storedProcedures: [
+      { name: GetByProductId, paging: false,
+        parameters: [
+          { name: ProductId, nullable: true, operator: EQ }
+        ]
+      }
+    ]
+  }
+
+- { name: Order, get : true, getAll: true, create : true, update : true, delete: true }
+- { name: OrderLine, get : true, getAll: true, create : true, update : true, delete: true,
+    storedProcedures: [
+      { name: GetByOrderId, paging: false,
+        parameters: [
+          { name: OrderId, nullable: true, operator: EQ }
+        ]
+      }
+    ]
+  }
+- { name: OrderTransaction, get : true, getAll: true, create : true, update : true, delete: true,
+    storedProcedures: [
+      { name: GetByOrderId, paging: false,
+        parameters: [
+          { name: OrderId, nullable: true, operator: EQ }
+        ]
+      }
+    ]
+  }

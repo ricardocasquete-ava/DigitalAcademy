@@ -51,6 +51,7 @@
   <ItemGroup>
     <Compile Include="Calculator_Tests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Search_Tests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
