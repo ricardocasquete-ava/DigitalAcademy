@@ -13,6 +13,6 @@ namespace Avanade.Engine.Sales.Database
         /// </summary>
         /// <param name="args">The startup arguments.</param>
         /// <returns>The status code whereby zero indicates success.</returns>
-        public static Task<int> Main(string[] args) => DatabaseConsole.Create("Data Source=.;Initial Catalog=Avanade.Engine.Sales;Integrated Security=True;TrustServerCertificate=true", "Avanade.Engine", "Sales", useBeefDbo: true).RunAsync(args);
+        public static Task<int> Main(string[] args) => DatabaseConsole.Create("Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=Avanade.Engine.Sales;Integrated Security=True;TrustServerCertificate=true", "Avanade.Engine", "Sales", useBeefDbo: true).RunAsync(args);
     }
 }
