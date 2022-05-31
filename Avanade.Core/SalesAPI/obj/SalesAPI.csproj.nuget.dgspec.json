@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ricardo.casquete\\source\\repos\\DigitalAcademy2\\Avanade.Core\\SalesAPI\\SalesAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ricardo.casquete\\source\\repos\\DigitalAcademy2\\Avanade.Core\\SalesAPI\\SalesAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ricardo.casquete\\source\\repos\\DigitalAcademy2\\Avanade.Core\\SalesAPI\\SalesAPI.csproj",
+        "projectName": "SalesAPI",
+        "projectPath": "C:\\Users\\ricardo.casquete\\source\\repos\\DigitalAcademy2\\Avanade.Core\\SalesAPI\\SalesAPI.csproj",
+        "packagesPath": "C:\\Users\\ricardo.casquete\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ricardo.casquete\\source\\repos\\DigitalAcademy2\\Avanade.Core\\SalesAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ricardo.casquete\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
