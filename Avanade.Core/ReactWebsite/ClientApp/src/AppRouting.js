@@ -10,8 +10,11 @@ import PropsSample from './components/Samples/PropsSample';
 import LibraryFixed from './components/Samples/LibraryFixed';
 import LibraryDynamic from './components/Samples/LibraryDynamic';
 
-import Products from './components/Samples/Products';
 import Calculator from './components/Calculator/Calculator';
+
+
+import ProductsList from './components/Products/ProductsList';
+import ProductAddNew from './components/Products/ProductAddNew';
 
 const AppRouting = (props) => {
 
@@ -26,8 +29,12 @@ const AppRouting = (props) => {
             <Route path='/LibraryFixed' component={LibraryFixed} />
             <Route path='/LibraryDynamic' component={LibraryDynamic} />
 
-            <Route path='/Products' component={Products} />
             <Route path='/Calculator' component={Calculator} />
+
+
+            <Route path='/Products/All' component={ProductsList} />
+            <Route path='/Products/AddNew' component={ProductAddNew} />
+
         </Fragment>
     );
 };

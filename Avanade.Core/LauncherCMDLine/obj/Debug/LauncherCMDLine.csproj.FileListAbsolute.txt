@@ -9,3 +9,14 @@ C:\Users\ricardo.casquete\Source\Repos\DigitalAcademy2\Avanade.Core\LauncherCMDL
 C:\Users\ricardo.casquete\Source\Repos\DigitalAcademy2\Avanade.Core\LauncherCMDLine\obj\Debug\LauncherCMDLine.csproj.CopyComplete
 C:\Users\ricardo.casquete\Source\Repos\DigitalAcademy2\Avanade.Core\LauncherCMDLine\obj\Debug\LauncherCMDLine.exe
 C:\Users\ricardo.casquete\Source\Repos\DigitalAcademy2\Avanade.Core\LauncherCMDLine\obj\Debug\LauncherCMDLine.pdb
+C:\_Source\Repos\Demos\DigitalAcademy\Avanade.Core\LauncherCMDLine\bin\Debug\LauncherCMDLine.exe.config
+C:\_Source\Repos\Demos\DigitalAcademy\Avanade.Core\LauncherCMDLine\bin\Debug\LauncherCMDLine.exe
+C:\_Source\Repos\Demos\DigitalAcademy\Avanade.Core\LauncherCMDLine\bin\Debug\LauncherCMDLine.pdb
+C:\_Source\Repos\Demos\DigitalAcademy\Avanade.Core\LauncherCMDLine\bin\Debug\CodeExamples.dll
+C:\_Source\Repos\Demos\DigitalAcademy\Avanade.Core\LauncherCMDLine\bin\Debug\CodeExamples.pdb
+C:\_Source\Repos\Demos\DigitalAcademy\Avanade.Core\LauncherCMDLine\obj\Debug\LauncherCMDLine.csproj.AssemblyReference.cache
+C:\_Source\Repos\Demos\DigitalAcademy\Avanade.Core\LauncherCMDLine\obj\Debug\LauncherCMDLine.csproj.SuggestedBindingRedirects.cache
+C:\_Source\Repos\Demos\DigitalAcademy\Avanade.Core\LauncherCMDLine\obj\Debug\LauncherCMDLine.csproj.CoreCompileInputs.cache
+C:\_Source\Repos\Demos\DigitalAcademy\Avanade.Core\LauncherCMDLine\obj\Debug\LauncherCMDLine.csproj.CopyComplete
+C:\_Source\Repos\Demos\DigitalAcademy\Avanade.Core\LauncherCMDLine\obj\Debug\LauncherCMDLine.exe
+C:\_Source\Repos\Demos\DigitalAcademy\Avanade.Core\LauncherCMDLine\obj\Debug\LauncherCMDLine.pdb

@@ -18,3 +18,13 @@ C:\Users\ricardo.casquete\Source\Repos\DigitalAcademy2\Avanade.Core\CodeExamples
 C:\Users\ricardo.casquete\Source\Repos\DigitalAcademy2\Avanade.Core\CodeExamples\obj\Debug\netstandard2.0\CodeExamples.csproj.CoreCompileInputs.cache
 C:\Users\ricardo.casquete\Source\Repos\DigitalAcademy2\Avanade.Core\CodeExamples\obj\Debug\netstandard2.0\CodeExamples.dll
 C:\Users\ricardo.casquete\Source\Repos\DigitalAcademy2\Avanade.Core\CodeExamples\obj\Debug\netstandard2.0\CodeExamples.pdb
+C:\_Source\Repos\Demos\DigitalAcademy\Avanade.Core\CodeExamples\bin\Debug\netstandard2.0\CodeExamples.deps.json
+C:\_Source\Repos\Demos\DigitalAcademy\Avanade.Core\CodeExamples\bin\Debug\netstandard2.0\CodeExamples.dll
+C:\_Source\Repos\Demos\DigitalAcademy\Avanade.Core\CodeExamples\bin\Debug\netstandard2.0\CodeExamples.pdb
+C:\_Source\Repos\Demos\DigitalAcademy\Avanade.Core\CodeExamples\obj\Debug\netstandard2.0\CodeExamples.csproj.AssemblyReference.cache
+C:\_Source\Repos\Demos\DigitalAcademy\Avanade.Core\CodeExamples\obj\Debug\netstandard2.0\CodeExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Source\Repos\Demos\DigitalAcademy\Avanade.Core\CodeExamples\obj\Debug\netstandard2.0\CodeExamples.AssemblyInfoInputs.cache
+C:\_Source\Repos\Demos\DigitalAcademy\Avanade.Core\CodeExamples\obj\Debug\netstandard2.0\CodeExamples.AssemblyInfo.cs
+C:\_Source\Repos\Demos\DigitalAcademy\Avanade.Core\CodeExamples\obj\Debug\netstandard2.0\CodeExamples.csproj.CoreCompileInputs.cache
+C:\_Source\Repos\Demos\DigitalAcademy\Avanade.Core\CodeExamples\obj\Debug\netstandard2.0\CodeExamples.dll
+C:\_Source\Repos\Demos\DigitalAcademy\Avanade.Core\CodeExamples\obj\Debug\netstandard2.0\CodeExamples.pdb

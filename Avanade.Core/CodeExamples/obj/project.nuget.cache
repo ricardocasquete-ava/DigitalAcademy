@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F9q4pO0FemfUjo8Rq2Q4CFQHUe7/0De2kX23sUVmrot5SMimurkHuBrvwI7IecbfXcMZVtmNi3Yit2aqhAHq+w==",
+  "dgSpecHash": "7XJLeWwYnmrv79EbJK1NB6wsbRuDJo0dJDwCjeMtYNFWOudj/620Lbr9PcgAHuCPG3fjxcwqYOzE0Gtl3qdlBw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ricardo.casquete\\source\\repos\\DigitalAcademy2\\Avanade.Core\\CodeExamples\\CodeExamples.csproj",
+  "projectFilePath": "C:\\_Source\\Repos\\Demos\\DigitalAcademy\\Avanade.Core\\CodeExamples\\CodeExamples.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ricardo.casquete\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\ricardo.casquete\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

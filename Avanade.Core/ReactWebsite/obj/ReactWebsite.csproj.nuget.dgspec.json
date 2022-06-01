@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ricardo.casquete\\source\\repos\\DigitalAcademy2\\Avanade.Core\\ReactWebsite\\ReactWebsite.csproj": {}
+    "C:\\_Source\\Repos\\Demos\\DigitalAcademy\\Avanade.Core\\ReactWebsite\\ReactWebsite.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ricardo.casquete\\source\\repos\\DigitalAcademy2\\Avanade.Core\\ReactWebsite\\ReactWebsite.csproj": {
+    "C:\\_Source\\Repos\\Demos\\DigitalAcademy\\Avanade.Core\\ReactWebsite\\ReactWebsite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ricardo.casquete\\source\\repos\\DigitalAcademy2\\Avanade.Core\\ReactWebsite\\ReactWebsite.csproj",
+        "projectUniqueName": "C:\\_Source\\Repos\\Demos\\DigitalAcademy\\Avanade.Core\\ReactWebsite\\ReactWebsite.csproj",
         "projectName": "ReactWebsite",
-        "projectPath": "C:\\Users\\ricardo.casquete\\source\\repos\\DigitalAcademy2\\Avanade.Core\\ReactWebsite\\ReactWebsite.csproj",
+        "projectPath": "C:\\_Source\\Repos\\Demos\\DigitalAcademy\\Avanade.Core\\ReactWebsite\\ReactWebsite.csproj",
         "packagesPath": "C:\\Users\\ricardo.casquete\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ricardo.casquete\\source\\repos\\DigitalAcademy2\\Avanade.Core\\ReactWebsite\\obj\\",
+        "outputPath": "C:\\_Source\\Repos\\Demos\\DigitalAcademy\\Avanade.Core\\ReactWebsite\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ricardo.casquete\\AppData\\Roaming\\NuGet\\NuGet.Config",

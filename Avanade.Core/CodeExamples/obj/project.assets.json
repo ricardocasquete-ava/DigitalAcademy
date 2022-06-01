@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ricardo.casquete\\Source\\Repos\\DigitalAcademy2\\Avanade.Core\\CodeExamples\\CodeExamples.csproj",
+      "projectUniqueName": "C:\\_Source\\Repos\\Demos\\DigitalAcademy\\Avanade.Core\\CodeExamples\\CodeExamples.csproj",
       "projectName": "CodeExamples",
-      "projectPath": "C:\\Users\\ricardo.casquete\\Source\\Repos\\DigitalAcademy2\\Avanade.Core\\CodeExamples\\CodeExamples.csproj",
+      "projectPath": "C:\\_Source\\Repos\\Demos\\DigitalAcademy\\Avanade.Core\\CodeExamples\\CodeExamples.csproj",
       "packagesPath": "C:\\Users\\ricardo.casquete\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ricardo.casquete\\Source\\Repos\\DigitalAcademy2\\Avanade.Core\\CodeExamples\\obj\\",
+      "outputPath": "C:\\_Source\\Repos\\Demos\\DigitalAcademy\\Avanade.Core\\CodeExamples\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ricardo.casquete\\AppData\\Roaming\\NuGet\\NuGet.Config",

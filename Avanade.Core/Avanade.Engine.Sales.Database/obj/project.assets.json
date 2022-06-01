@@ -8484,11 +8484,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ricardo.casquete\\source\\repos\\DigitalAcademy2\\Avanade.Core\\Avanade.Engine.Sales.Database\\Avanade.Engine.Sales.Database.csproj",
+      "projectUniqueName": "C:\\_Source\\Repos\\Demos\\DigitalAcademy\\Avanade.Core\\Avanade.Engine.Sales.Database\\Avanade.Engine.Sales.Database.csproj",
       "projectName": "Avanade.Engine.Sales.Database",
-      "projectPath": "C:\\Users\\ricardo.casquete\\source\\repos\\DigitalAcademy2\\Avanade.Core\\Avanade.Engine.Sales.Database\\Avanade.Engine.Sales.Database.csproj",
+      "projectPath": "C:\\_Source\\Repos\\Demos\\DigitalAcademy\\Avanade.Core\\Avanade.Engine.Sales.Database\\Avanade.Engine.Sales.Database.csproj",
       "packagesPath": "C:\\Users\\ricardo.casquete\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ricardo.casquete\\source\\repos\\DigitalAcademy2\\Avanade.Core\\Avanade.Engine.Sales.Database\\obj\\",
+      "outputPath": "C:\\_Source\\Repos\\Demos\\DigitalAcademy\\Avanade.Core\\Avanade.Engine.Sales.Database\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ricardo.casquete\\AppData\\Roaming\\NuGet\\NuGet.Config",

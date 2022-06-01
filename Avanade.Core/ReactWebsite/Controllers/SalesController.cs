@@ -13,27 +13,28 @@ namespace ReactWebsite.Controllers
     [Route("[controller]")]
     public class SalesController : ControllerBase
     {
-        [HttpGet]
-        public IEnumerable<ProductModel> Get()
-        {
-            var products = new List<ProductModel>();
-            products.Add(new ProductModel
-            {
-                ProductId = 1,
-                Name = "Pencil",
-                Description = "To Write",
-                Price = 10
-            });
-            products.Add(new ProductModel
-            {
-                ProductId = 2,
-                Name = "Eraser",
-                Description = "To Correct Mistakes",
-                Price = 15
-            });
+        //[HttpGet]
+        //public ApiResponse<IEnumerable<ProductModel>> Get()
+        //{
 
-            return products;
-        }
+        //    var products = new List<ProductModel>();
+        //    products.Add(new ProductModel
+        //    {
+        //        ProductId = 1,
+        //        Name = "Pencil",
+        //        Description = "To Write",
+        //        Price = 10
+        //    });
+        //    products.Add(new ProductModel
+        //    {
+        //        ProductId = 2,
+        //        Name = "Eraser",
+        //        Description = "To Correct Mistakes",
+        //        Price = 15
+        //    });
+
+        //    return products;
+        //}
 
 
         //[HttpGet]
