@@ -1,4 +1,4 @@
-﻿import { toast } from 'react-toastify';
+﻿////import { toast } from 'react-toastify';
 
 //Declare Global Model
 var consoleEnabled = true;//false;
@@ -149,27 +149,27 @@ const Common = {
 
     success: function (message) {
 
-        toast.success(message, {
-            position: "top-right",
-            autoClose: 8000,
-            hideProgressBar: false,
-            closeOnClick: true,
-            pauseOnHover: true,
-            draggable: true,
-            progress: undefined,
-        });
+        //toast.success(message, {
+        //    position: "top-right",
+        //    autoClose: 8000,
+        //    hideProgressBar: false,
+        //    closeOnClick: true,
+        //    pauseOnHover: true,
+        //    draggable: true,
+        //    progress: undefined,
+        //});
     },
     error: function (message) {
 
-        toast.error(message, {
-            position: "top-right",
-            autoClose: 10000,
-            hideProgressBar: false,
-            closeOnClick: true,
-            pauseOnHover: true,
-            draggable: true,
-            progress: undefined,
-        });
+        //toast.error(message, {
+        //    position: "top-right",
+        //    autoClose: 10000,
+        //    hideProgressBar: false,
+        //    closeOnClick: true,
+        //    pauseOnHover: true,
+        //    draggable: true,
+        //    progress: undefined,
+        //});
     },
 
     //#endregion

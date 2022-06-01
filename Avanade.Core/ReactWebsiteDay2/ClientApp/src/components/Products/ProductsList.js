@@ -2,7 +2,6 @@
 import { Container, Row, Col, Alert, Button } from "reactstrap";
 import Common from "../../controls/Common";
 import ProductsDataAPI from "./Shared/ProductsDataAPI";
-import 'react-toastify/dist/ReactToastify.css';
 import { Link } from "react-router-dom";
 
 const ProductList = (props) => {
