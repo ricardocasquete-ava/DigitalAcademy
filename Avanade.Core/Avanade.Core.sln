@@ -27,6 +27,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReactWebsite", "ReactWebsit
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReactWebsiteDay1", "ReactWebsiteDay1\ReactWebsiteDay1.csproj", "{708F3BA5-B52F-47B6-A8C7-06FB6A79578F}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReactWebsiteDay2", "ReactWebsiteDay2\ReactWebsiteDay2.csproj", "{6EB34C39-24A7-4B70-8CFC-ED156E7EF724}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -61,6 +63,10 @@ Global
 		{708F3BA5-B52F-47B6-A8C7-06FB6A79578F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{708F3BA5-B52F-47B6-A8C7-06FB6A79578F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{708F3BA5-B52F-47B6-A8C7-06FB6A79578F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EB34C39-24A7-4B70-8CFC-ED156E7EF724}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EB34C39-24A7-4B70-8CFC-ED156E7EF724}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EB34C39-24A7-4B70-8CFC-ED156E7EF724}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EB34C39-24A7-4B70-8CFC-ED156E7EF724}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -73,6 +79,7 @@ Global
 		{28A826EB-42F0-4C44-9532-5D8DE6117CDE} = {B9BF1734-F509-4D4F-807E-D40C97E9F463}
 		{03C65038-CAC7-47F0-8B19-D6A3929C12B8} = {21DDA622-E15D-4333-AE3A-DE0971C7A195}
 		{708F3BA5-B52F-47B6-A8C7-06FB6A79578F} = {21DDA622-E15D-4333-AE3A-DE0971C7A195}
+		{6EB34C39-24A7-4B70-8CFC-ED156E7EF724} = {21DDA622-E15D-4333-AE3A-DE0971C7A195}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D9876925-6079-4A5F-A0BF-585AAE8CF883}
