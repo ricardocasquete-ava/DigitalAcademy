@@ -17,15 +17,6 @@ const ProductList = (props) => {
         console.log(products);
     },[products]);
 
-    const loadProducts = () => {
-        ProductsDataAPI.getAll(null, loadProductsCallback);
-    };
-
-    const loadProductsCallback = (data) => {
-        Common.log(data);
-        setProducts(data);
-    }
-
     return (
         <Container>
             <Row>
@@ -54,16 +45,6 @@ export default ProductList;
 const Product = (props) => {
 
     const [product, setProduct] = useState(props.product);
-
-    const deleteProduct = (productId) => {
-        Common.log("Requested delete Product Id -> {0} ", [productId]);
-        var model = { productId: productId };
-        ProductsDataAPI.delete(model, deleteProductCallback, { productId: productId });
-    };
-
-    const deleteProductCallback = (data, callbackData) => {
-        Common.log("The Item with Id {0} has been deleted",[callbackData.productId]);
-    };
 
     const divStyle = {
         border: '2px solid blue',

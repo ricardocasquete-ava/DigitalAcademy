@@ -13,7 +13,6 @@ const AppRouting = (props) => {
             <Route exact={true} path="/" component={Landing} />
 
             <Route path='/Products/All' component={ProductsList} />
-            <Route path='/Products/AddNew' component={ProductAddNew} />
 
         </Fragment>
     );
